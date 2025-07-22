@@ -3,6 +3,11 @@
 This is a simple Python voice assistant project that listens to your voice, converts it into text using Google's Speech Recognition API, and responds using Text-to-Speech. It runs in a loop until the user says **"exit"** or **"stop"**.
 
 ---
+# Project By : Santhakumar M
+# Guided By : YBI Foundation
+## contact mail : santhakpr45@gmail.com
+
+---
 
 ## 📌 Features
 
@@ -27,27 +32,27 @@ This is a simple Python voice assistant project that listens to your voice, conv
 
 ### 1. Install the required packages
 
-```bash
-pip install SpeechRecognition
-pip install pyttsx3
-pip install pipwin
-pipwin install pyaudio
+
+pip install SpeechRecognition<br>
+pip install pyttsx3<br>
+pip install pipwin<br>
+pipwin install pyaudio<br>
 
 ---
-## Sample output (from my local system)
+### Sample output (from my local system)
 
 Hi bro! I am your voice assistant. Speak something!<br>
-Listening....
-You said : Hello
-Listening....
-You said : Santha
-Listening....
-You said : Hi
-Listening....
-You said : Exit
-Good bye bro !
+Listening....<br>
+You said : Hello<br>
+Listening....<br>
+You said : Santha<br>
+Listening....<br>
+You said : Hi<br>
+Listening....<br>
+You said : Exit<br>
+Good bye bro !<br>
 
 ---
-## Project By : Santhakumar M
-##Guided By : YBI Foundation
-##contact mail : santhakpr45@gmail.com
+# Project By : Santhakumar M
+# Guided By : YBI Foundation
+## contact mail : santhakpr45@gmail.com
